@@ -11,7 +11,7 @@ namespace Ozgurders4
 
         public static void merhabaYaz()
         {
-            Console.WriteLine("Selamlar");
+            Console.WriteLine("Merhabalar");
         }
         public static void topla(int a, int b)
         {
